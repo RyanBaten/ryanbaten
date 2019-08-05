@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# <u> Interests </u>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a highly motivated Data Scientist currently working for Transamerica on the Advanced Analytics team in Denver, Coloroado. My interest and work is predominantly in natural language processing however, I also have experience with computer vision, representation learning, etc. and enjoy writing clean, production ready code.
 
-What else do you need?
+# <u> Background </u>
 
-### my history
+### Work Experience
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Data Scientist - Transamerica (2018 - Present)
+- Course Assistant Conver Optimization - University of Colorado Boulder (Spring 2018)
+- Linux Student System Administrator (2015 - 2018)
+
+### Education
+
+- MS, Computer Science - University of Colorado Boulder (2014 - 2018)
+- BS, Computer Science - University of Colorado Boulder (2014 - 2018)
+- Applied Math Minor - University of Colorado Boulder (2014 - 2018)
