@@ -13,7 +13,7 @@ I am a highly motivated Data Scientist currently working for Transamerica on the
 ### Work Experience
 
 - Data Scientist - Transamerica (2018 - Present)
-- Course Assistant Conver Optimization - University of Colorado Boulder (Spring 2018)
+- Course Assistant Convex Optimization - University of Colorado Boulder (Spring 2018)
 - Linux Student System Administrator (2015 - 2018)
 
 ### Education
