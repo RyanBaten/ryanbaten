@@ -60,6 +60,19 @@ bigimg:
   {% endfor %}
 </div>
 
+<script src="js/three.r92.min.js"></script>
+<script src="js/vanta.net.min.js"></script>
+<script>
+VANTA.NET({
+  el: "#main-content",
+  color: 0x0,
+  backgroundColor: 0xffffff,
+  points: 5.00,
+  maxDistance: 20.00,
+  spacing: 20.00
+})
+</script>
+
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.previous_page %}

@@ -25,9 +25,11 @@ common-js:
   
     {% include nav.html %}
 
-    {{ content }}
+    <div id="main-content">
+      {{ content }}
 
-    {% include footer.html %}
+      {% include footer.html %}
+    </div>
   
     {% include footer-scripts.html %}
   
