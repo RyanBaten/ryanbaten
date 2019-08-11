@@ -64,10 +64,10 @@ css:
 <script>
 VANTA.NET({
   el: "#main-content",
-  color: 0x6b6b6b,
+  color: 0xd2d2d2,
   backgroundColor: 0xffffff,
   points: 5.00,
-  maxDistance: 20.00,
+  maxDistance: 30.00,
   spacing: 20.00
 })
 </script>
