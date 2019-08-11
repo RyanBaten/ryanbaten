@@ -1,12 +1,19 @@
 ---
 layout: page
-title: About me
+title: About
 subtitle: 
 ---
+
+
+-----
+
 
 # <u> Interests </u>
 
 I am a highly motivated Data Scientist currently working for Transamerica on the Advanced Analytics team in Denver, Coloroado. My interest and work is predominantly in natural language processing however, I also have experience with computer vision, representation learning, etc. and enjoy writing clean, production ready code.
+
+
+-----
 
 # <u> Background </u>
 
